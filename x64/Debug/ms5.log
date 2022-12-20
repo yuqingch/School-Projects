@@ -1,0 +1,31 @@
+﻿  Car.cpp
+  main.cpp
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.h(25,14): error C2143: syntax error: missing ';' before '*'
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.h(25,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.h(25,59): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\main.cpp(26,6): error C2039: 'run': is not a member of 'sdds::Parking'
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.h(22): message : see declaration of 'sdds::Parking'
+  Menu.cpp
+  Motorcycle.cpp
+  Parking.cpp
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.h(25,14): error C2143: syntax error: missing ';' before '*'
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.h(25,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.h(25,59): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.cpp(20,13): error C2065: 'm_parkingSpots': undeclared identifier
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.cpp(23,23): error C2065: 'ut': undeclared identifier
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.cpp(25,13): error C2065: 'ut': undeclared identifier
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.cpp(58,19): error C2065: 'm_parkingSpots': undeclared identifier
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.cpp(58,53): error C2061: syntax error: identifier 'Motorcycle'
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.cpp(60,19): error C2065: 'm_parkingSpots': undeclared identifier
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.cpp(61,19): error C2653: 'Motorcycle': is not a class or namespace name
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.cpp(61,31): error C3861: 'read': identifier not found
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.cpp(64,19): error C2065: 'm_parkingSpots': undeclared identifier
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.cpp(64,53): error C2061: syntax error: identifier 'Car'
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.cpp(66,19): error C2065: 'm_parkingSpots': undeclared identifier
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.cpp(69,19): error C2065: 'm_parkingSpots': undeclared identifier
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.cpp(83,10): error C2065: 'display': undeclared identifier
+C:\YQC\Seneca\SecondSemester\OOP244\OOP-Project\ms5\Parking.cpp(84,7): error C2143: syntax error: missing ';' before '}'
+  ReadWritable.cpp
+  Utils.cpp
+  Vehicle.cpp
+  Generating Code...
